@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Elitsa
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Vue.js
 
 
 <!---
